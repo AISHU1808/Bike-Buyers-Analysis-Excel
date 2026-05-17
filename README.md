@@ -36,7 +36,7 @@ Built a dynamic dashboard incorporating key charts linked to the pivot tables.
 
 ## Final Dashboard Preview
 *(Note: If your uploaded screenshot file has a different name, make sure it matches the name inside the parenthesis below)*
-![Excel Dashboard](image_fe1d56.png)
+![Excel Dashboard](image_feab82.png)
 
 ## Key Insights Discovered
 1. **The Sweet Spot for Age:** The majority of bike purchases come from the **Middle age** demographic, whereas older demographics show a sharp decline in purchases.
